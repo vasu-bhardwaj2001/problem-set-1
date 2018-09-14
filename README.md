@@ -19,11 +19,15 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 ```
    >>> mv problem-set-1-skeleton pset1
 ```
-6. Originally, the remote will be pointing at my repository. We need to overwrite this.
+6. Change directories to get into your ```pset1``` folder.
+```
+   >>> cd pset1
+```
+7. Originally, the remote will be pointing at my repository. We need to overwrite this.
 ```
    >>> git remote rename origin upstream
 ```
-7. Lastly, we need to add a new remote that points at the repository you created earlier.
+8. Lastly, we need to add a new remote that points at the repository you created earlier.
 ```
    >>> git remote add pset1 git@github.com:YOUR-USERNAME/problem-set-1.git
 ```
