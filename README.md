@@ -42,7 +42,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 
 ## Exercises
 
-Problem Set 1 contains 5 exercises, each of which will be written in your ```main``` method. You'll notice that there are indicators for where the code for each exercise should be written. Please adhere to these. And perhaps most importantly, challenge yourself! I know you can copy and paste these or find the answers on Google. Try to work through these on your own. You'll thank me later when the exercises become far more complex and the solutions not so easily implemented.
+Problem Set 1 contains 5 exercises, each of which will be written in your ```main``` method. You'll notice that there are indicators for where the code for each exercise should be written. Please adhere to these. And perhaps most importantly, challenge yourself! I know you can copy and paste the samepl outputs or find the answers on Google. Try to work through these on your own. You'll thank me later when the exercises become far more complex and the solutions not-so-easily implemented.
 
 ### Exercise 1
 
