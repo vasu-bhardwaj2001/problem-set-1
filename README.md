@@ -49,7 +49,8 @@ Problem Set 1 contains 5 exercises, each of which will be written in your ```mai
 Print APCS to the console in large letters constructed with hashtags (i.e., #). Each letter must be 7 hashtags in height with a single space between letters. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly.
 ```
 /// EXERCISE 1 /////////////////////////////////////////////////
-    ##    ######  ######## ########
+
+   ##    ######  ######## ########
   #  #   #     # #        #
  #    #  #     # #        #
 ######## ######  #        ########
