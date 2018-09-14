@@ -46,72 +46,66 @@ Problem Set 1 contains 5 exercises, each of which will be written in your ```mai
 
 ### Exercise 1
 
-Print APCS to the console in large letters constructed with hashtags (i.e., #). Each letter must be 7 hashtags in height with a single space between letters. Your output should match mine exactly.
+Print APCS to the console in large letters constructed with hashtags (i.e., #). Each letter must be 7 hashtags in height with a single space between letters. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly.
 ```
-    /// EXERCISE 1 /////////////////////////////////////////////////
-
-       ##    ######  ######## ########
-      #  #   #     # #        #
-     #    #  #     # #        #
-    ######## ######  #        ########
-    #      # #       #               #
-    #      # #       #               #
-    #      # #       ######## ########
-    
+/// EXERCISE 1 /////////////////////////////////////////////////
+    ##    ######  ######## ########
+  #  #   #     # #        #
+ #    #  #     # #        #
+######## ######  #        ########
+#      # #       #               #
+#      # #       #               #
+#      # #       ######## ########    
 ```
 
 ### Exercise 2
 
-Print 3 consecutive diamonds to the console using forward and backslashes only. Each diamond should be 6 slashes in height with a single space between each diamond. Your output should match mine exactly.
+Print 3 consecutive diamonds to the console using forward and backslashes only. Each diamond should be 6 slashes in height with a single space between each diamond. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly.
 ```
-    /// EXERCISE 2 /////////////////////////////////////////////////
+/// EXERCISE 2 /////////////////////////////////////////////////
 
-      /\     /\     /\
-     /  \   /  \   /  \
-    /    \ /    \ /    \
-    \    / \    / \    /
-     \  /   \  /   \  /
-      \/     \/     \/
-      
+  /\     /\     /\
+ /  \   /  \   /  \
+/    \ /    \ /    \
+\    / \    / \    /
+ \  /   \  /   \  /
+  \/     \/     \/      
 ```
 
 ### Exercise 3
 
-Print a face to the console using only the ```System.out.print``` method. You are not allowed to use ```System.out.println``` at all. Your face should be 6 lines in height. Your output should match mine exactly.
+Print a face to the console using only the ```System.out.print``` method. You are not allowed to use ```System.out.println``` at all. Your face should be 6 lines in height. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly.
 ```
-    /// EXERCISE 3 /////////////////////////////////////////////////
+/// EXERCISE 3 /////////////////////////////////////////////////
 
-       \\\\\
-      +"""""+
-    (|  0 0  |)
-     |   ^   |
-     |  '-'  |
-      +-----+
-      
+   \\\\\
+  +"""""+
+(|  0 0  |)
+ |   ^   |
+ |  '-'  |
+  +-----+      
 ```
 
 ### Exercise 4
 
-Using a single print statement (either ````System.out.print``` or ```System.out.println```), print the following figure to the console. There is a single space between each letter on the top and bottom of the box. The rest of the spacing should be easily dedicible. Your output should match mine exactly. 
+Using a single print statement (either ```System.out.print``` or ```System.out.println```), print the following figure to the console. There is a single space between each letter on the top and bottom of the box. The rest of the spacing should be easily dedicible. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly. 
 ```
-    /// EXERCISE 4 /////////////////////////////////////////////////
+/// EXERCISE 4 /////////////////////////////////////////////////
 
-    H E L L O
-    E       A
-    L       P
-    L       C
-    O A P C S
-    
+H E L L O
+E       A
+L       P
+L       C
+O A P C S    
 ```
 
 ### Exercise 5
 
-Print the following text, including the quotation marks, to the console. Your output should match mine exactly.
+Print the following text, including the quotation marks, to the console. You cannot use String concatenation (i.e., the + operator) in your print statements. Your output should match mine exactly.
 ```
-    /// EXERCISE 5 /////////////////////////////////////////////////
+/// EXERCISE 5 /////////////////////////////////////////////////
 
-    "The answer's quite simple," the professor said. "Just think outside the box!"
-    
+"The answer's quite simple," the professor said. "Just think outside the box!"    
 ```
 
 ## Deadline
