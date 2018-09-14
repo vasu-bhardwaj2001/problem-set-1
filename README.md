@@ -10,7 +10,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 
 1. Login to your [GitHub](https://github.com/) account and create a new repository named ```problem-set-1```.
 2. Create a folder on the ```Desktop``` named ```APCSA```.
-3. In GitBash, navigate to your ```APSCA``` folder.
+3. In GitBash, navigate to your ```APCSA``` folder.
 4. Clone my skeleton repository from GitHub. This will make a copy of my repository and store it locally.
 ```
    >>> git clone git@github.com:rwilson-ucvts/problem-set-1-skeleton.git
