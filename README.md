@@ -56,7 +56,7 @@ Print APCS to the console in large letters constructed with hashtags (i.e., #). 
 ######## ######  #        ########
 #      # #       #               #
 #      # #       #               #
-#      # #       ######## ########    
+#      # #       ######## ########
 ```
 
 ### Exercise 2
@@ -70,7 +70,7 @@ Print 3 consecutive diamonds to the console using forward and backslashes only. 
 /    \ /    \ /    \
 \    / \    / \    /
  \  /   \  /   \  /
-  \/     \/     \/      
+  \/     \/     \/
 ```
 
 ### Exercise 3
@@ -84,7 +84,7 @@ Print a face to the console using only the ```System.out.print``` method. You ar
 (|  0 0  |)
  |   ^   |
  |  '-'  |
-  +-----+      
+  +-----+
 ```
 
 ### Exercise 4
@@ -97,7 +97,7 @@ H E L L O
 E       A
 L       P
 L       C
-O A P C S    
+O A P C S
 ```
 
 ### Exercise 5
@@ -106,7 +106,7 @@ Print the following text, including the quotation marks, to the console. You can
 ```
 /// EXERCISE 5 /////////////////////////////////////////////////
 
-"The answer's quite simple," the professor said. "Just think outside the box!"    
+"The answer's quite simple," the professor said. "Just think outside the box!"
 ```
 
 ## Deadline
