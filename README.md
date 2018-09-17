@@ -32,7 +32,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
    >>> git remote add pset1 git@github.com:YOUR-USERNAME/problem-set-1.git
 ```
 09. Launch Eclipse and set the ```Workspace``` to the ```APCSA``` folder you created on your ```Desktop```.
-10. From within the ```Package Explorer``` (the right-most panel), right-click and select ```Import...```.
+10. From within the ```Package Explorer``` (the left-most panel), right-click and select ```Import...```.
 11. Select ```Git > Projects from Git```, and click ```Next >```.
 12. Select ```Existing local repository``` and click ```Next >```.
 13. Click the ```Add...``` button, and then the ```Browse...``` button.
